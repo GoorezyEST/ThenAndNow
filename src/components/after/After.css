@@ -98,6 +98,7 @@
 
 .new_btn:disabled {
   opacity: 0.75;
+  background-color: rgb(40, 40, 40);
   cursor: not-allowed;
 }
 
