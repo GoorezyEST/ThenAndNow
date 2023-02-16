@@ -1,0 +1,68 @@
+.body {
+  margin: 0;
+  padding: 0;
+  background: url(https://imgs-akamai.mnstatic.com/b5/8a/b58a47aa20f66d3a80b98a2edc74637a.jpg);
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+}
+
+header {
+  text-align: center;
+  background-color: rgba(161, 98, 16, 0.5);
+}
+
+#title {
+  font-size: 40px;
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+#description {
+  font-size: 35px;
+  padding: 10px;
+  margin-bottom: 15px;
+  font-family: sans-serif;
+}
+
+#survey-form {
+  background-color: rgba(161, 98, 16, 0.8);
+  text-align: center;
+}
+
+#name {
+  margin: 10px;
+  width: 50%;
+}
+
+#email {
+  margin: 10px;
+  width: 50%;
+}
+
+#number {
+  margin: 10px;
+}
+
+#dropdown {
+  margin: 10px;
+  width: 10%;
+}
+
+#recom {
+  margin: 10px;
+}
+
+#gusta {
+  margin: 10px;
+}
+
+#textarea {
+  margin: 10px;
+  width: 20%;
+}
+
+#submit {
+  background-color: green;
+  margin: 10px;
+}
